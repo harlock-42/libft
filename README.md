@@ -9,9 +9,7 @@ The aim of this project is to code a C library regrouping usual functions that y
 ## Usage
 
 ```
-$ git clone https://github.com/adbenoit-9/42_libft.git
-$ cd 42_libft/
+$ git clone https://github.com/harlock-42/libft.git
+$ cd libft/
 $ make
 ```
-
-util: `make norme`
